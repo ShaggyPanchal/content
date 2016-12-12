@@ -10,15 +10,15 @@
         <h4>Raspberry Pi 3</h4>
       </th>
       <th style="width:20%">
-        <img class="comparison-picture" src="{{site.baseurl}}/Resources/images/devices/RPi2_0.png">
+        <img src="{{site.baseurl}}/Resources/images/devices/RPi2_0.png">
         <h4>Raspberry Pi 2</h4>
       </th>
       <th style="width:20%">
-        <img class="comparison-picture" src="{{site.baseurl}}/Resources/images/devices/MBM_0.png">
+        <img src="{{site.baseurl}}/Resources/images/devices/MBM_0.png">
         <h4>MinnowBoard MAX</h4>
       </th>
       <th style="width:20%">
-        <img class="comparison-picture" src="{{site.baseurl}}/Resources/images/devices/DB410c.png">
+        <img src="{{site.baseurl}}/Resources/images/devices/DB410c.png">
         <h4>DragonBoard 410c</h4>
       </th>
     </tr>
